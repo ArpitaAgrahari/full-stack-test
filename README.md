@@ -45,9 +45,10 @@ npm start
 ```
 
 ## Components
-- App.js: Main app component.
-- ProductList.js: Displays product list with sorting/filtering.
-- ProductItem.js: Component for individual product cards.
+- **App.js**: Main app component.
+- **ProductList.js**: Displays product list with sorting/filtering.
+- **ProductItem.js**: Component for individual product cards.
+
 
 ## Accessibility
 - Uses ARIA roles and labels.
